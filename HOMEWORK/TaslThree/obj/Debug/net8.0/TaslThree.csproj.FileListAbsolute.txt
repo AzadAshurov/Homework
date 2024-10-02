@@ -1,0 +1,14 @@
+C:\Users\Baku\Desktop\HOMEWORK\TaslThree\bin\Debug\net8.0\TaslThree.exe
+C:\Users\Baku\Desktop\HOMEWORK\TaslThree\bin\Debug\net8.0\TaslThree.deps.json
+C:\Users\Baku\Desktop\HOMEWORK\TaslThree\bin\Debug\net8.0\TaslThree.runtimeconfig.json
+C:\Users\Baku\Desktop\HOMEWORK\TaslThree\bin\Debug\net8.0\TaslThree.dll
+C:\Users\Baku\Desktop\HOMEWORK\TaslThree\bin\Debug\net8.0\TaslThree.pdb
+C:\Users\Baku\Desktop\HOMEWORK\TaslThree\obj\Debug\net8.0\TaslThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baku\Desktop\HOMEWORK\TaslThree\obj\Debug\net8.0\TaslThree.AssemblyInfoInputs.cache
+C:\Users\Baku\Desktop\HOMEWORK\TaslThree\obj\Debug\net8.0\TaslThree.AssemblyInfo.cs
+C:\Users\Baku\Desktop\HOMEWORK\TaslThree\obj\Debug\net8.0\TaslThree.csproj.CoreCompileInputs.cache
+C:\Users\Baku\Desktop\HOMEWORK\TaslThree\obj\Debug\net8.0\TaslThree.dll
+C:\Users\Baku\Desktop\HOMEWORK\TaslThree\obj\Debug\net8.0\refint\TaslThree.dll
+C:\Users\Baku\Desktop\HOMEWORK\TaslThree\obj\Debug\net8.0\TaslThree.pdb
+C:\Users\Baku\Desktop\HOMEWORK\TaslThree\obj\Debug\net8.0\TaslThree.genruntimeconfig.cache
+C:\Users\Baku\Desktop\HOMEWORK\TaslThree\obj\Debug\net8.0\ref\TaslThree.dll

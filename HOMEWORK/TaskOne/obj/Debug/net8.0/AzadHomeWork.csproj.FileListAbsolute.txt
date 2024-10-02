@@ -1,0 +1,14 @@
+C:\Users\Baku\Desktop\AzadHomeWork\bin\Debug\net8.0\AzadHomeWork.exe
+C:\Users\Baku\Desktop\AzadHomeWork\bin\Debug\net8.0\AzadHomeWork.deps.json
+C:\Users\Baku\Desktop\AzadHomeWork\bin\Debug\net8.0\AzadHomeWork.runtimeconfig.json
+C:\Users\Baku\Desktop\AzadHomeWork\bin\Debug\net8.0\AzadHomeWork.dll
+C:\Users\Baku\Desktop\AzadHomeWork\bin\Debug\net8.0\AzadHomeWork.pdb
+C:\Users\Baku\Desktop\AzadHomeWork\obj\Debug\net8.0\AzadHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baku\Desktop\AzadHomeWork\obj\Debug\net8.0\AzadHomeWork.AssemblyInfoInputs.cache
+C:\Users\Baku\Desktop\AzadHomeWork\obj\Debug\net8.0\AzadHomeWork.AssemblyInfo.cs
+C:\Users\Baku\Desktop\AzadHomeWork\obj\Debug\net8.0\AzadHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Baku\Desktop\AzadHomeWork\obj\Debug\net8.0\AzadHomeWork.dll
+C:\Users\Baku\Desktop\AzadHomeWork\obj\Debug\net8.0\refint\AzadHomeWork.dll
+C:\Users\Baku\Desktop\AzadHomeWork\obj\Debug\net8.0\AzadHomeWork.pdb
+C:\Users\Baku\Desktop\AzadHomeWork\obj\Debug\net8.0\AzadHomeWork.genruntimeconfig.cache
+C:\Users\Baku\Desktop\AzadHomeWork\obj\Debug\net8.0\ref\AzadHomeWork.dll
