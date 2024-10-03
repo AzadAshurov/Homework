@@ -7,7 +7,7 @@ while (i <= num)
     if (i == num)
     {
         basis2 = true;
-
+        break;
     }
     i *= 2;
 }
