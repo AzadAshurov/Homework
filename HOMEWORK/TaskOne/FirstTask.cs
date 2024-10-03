@@ -20,6 +20,8 @@ if (firstNum > secondNum)
 {
     Console.WriteLine(firstNum);
 }
+else if(firstNum == secondNum){
+    Console.WriteLine("Numbers are equal"); }
 else
 {
     Console.WriteLine(secondNum);
