@@ -1,0 +1,15 @@
+C:\Users\II novbe\Desktop\oct4\bin\Debug\net6.0\oct4.exe
+C:\Users\II novbe\Desktop\oct4\bin\Debug\net6.0\oct4.deps.json
+C:\Users\II novbe\Desktop\oct4\bin\Debug\net6.0\oct4.runtimeconfig.json
+C:\Users\II novbe\Desktop\oct4\bin\Debug\net6.0\oct4.dll
+C:\Users\II novbe\Desktop\oct4\bin\Debug\net6.0\oct4.pdb
+C:\Users\II novbe\Desktop\oct4\obj\Debug\net6.0\oct4.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\oct4\obj\Debug\net6.0\oct4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\oct4\obj\Debug\net6.0\oct4.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\oct4\obj\Debug\net6.0\oct4.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\oct4\obj\Debug\net6.0\oct4.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\oct4\obj\Debug\net6.0\oct4.dll
+C:\Users\II novbe\Desktop\oct4\obj\Debug\net6.0\refint\oct4.dll
+C:\Users\II novbe\Desktop\oct4\obj\Debug\net6.0\oct4.pdb
+C:\Users\II novbe\Desktop\oct4\obj\Debug\net6.0\oct4.genruntimeconfig.cache
+C:\Users\II novbe\Desktop\oct4\obj\Debug\net6.0\ref\oct4.dll
