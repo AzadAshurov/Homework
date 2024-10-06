@@ -1,0 +1,14 @@
+C:\Users\Baku\Desktop\HOMEWORK\Homework_oct7\bin\Debug\net8.0\Homework_oct7.exe
+C:\Users\Baku\Desktop\HOMEWORK\Homework_oct7\bin\Debug\net8.0\Homework_oct7.deps.json
+C:\Users\Baku\Desktop\HOMEWORK\Homework_oct7\bin\Debug\net8.0\Homework_oct7.runtimeconfig.json
+C:\Users\Baku\Desktop\HOMEWORK\Homework_oct7\bin\Debug\net8.0\Homework_oct7.dll
+C:\Users\Baku\Desktop\HOMEWORK\Homework_oct7\bin\Debug\net8.0\Homework_oct7.pdb
+C:\Users\Baku\Desktop\HOMEWORK\Homework_oct7\obj\Debug\net8.0\Homework_oct7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baku\Desktop\HOMEWORK\Homework_oct7\obj\Debug\net8.0\Homework_oct7.AssemblyInfoInputs.cache
+C:\Users\Baku\Desktop\HOMEWORK\Homework_oct7\obj\Debug\net8.0\Homework_oct7.AssemblyInfo.cs
+C:\Users\Baku\Desktop\HOMEWORK\Homework_oct7\obj\Debug\net8.0\Homework_oct7.csproj.CoreCompileInputs.cache
+C:\Users\Baku\Desktop\HOMEWORK\Homework_oct7\obj\Debug\net8.0\Homework_oct7.dll
+C:\Users\Baku\Desktop\HOMEWORK\Homework_oct7\obj\Debug\net8.0\refint\Homework_oct7.dll
+C:\Users\Baku\Desktop\HOMEWORK\Homework_oct7\obj\Debug\net8.0\Homework_oct7.pdb
+C:\Users\Baku\Desktop\HOMEWORK\Homework_oct7\obj\Debug\net8.0\Homework_oct7.genruntimeconfig.cache
+C:\Users\Baku\Desktop\HOMEWORK\Homework_oct7\obj\Debug\net8.0\ref\Homework_oct7.dll
